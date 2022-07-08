@@ -18,13 +18,40 @@
   - [x] Curso - Primeiros passos para desenvolvimento Web  
   - [x] Curso - Introdução a criação de websites com HTML5 e CSS3  
   - [ ] Curso - Posicionando elementos com Flexbox em CSS
-      - [X] Introdução ao curso  
-        - [ ] Apresentação do curso
-        - [ ] Proposta de projeto final
-        - [ ] Introdução ao Flexbox
+      - [x] Introdução ao curso  
+        - [x] Apresentação do curso  
+        - [x] Proposta de projeto final  
+        - [x] Introdução ao Flexbox  
       - [ ] Fundamentos do Flexbox - Parte 1  
+        - [x] Estrutura básica do display: Flex  
+        - [x] Prática com disply: flex  
+        - [x] Estrutura básica do Flex direction  
+        - [x] Prática com flex direction  
+        - [x] Estrutura básica e prática com flex flow  
+        - [x] Estrutura básica do justify content  
+        - [ ] Prática com justify content - Parte 1  
+        - [ ] Prática com justify content - Parte 2  
+        - [ ] Estrutura básica e prática com align items  
+        - [ ] Estrutura básica e prática com align content  
       - [ ] Fundamentos do Flexbox - Parte 2  
-      - [ ] Projeto Integrador
+        - [ ] Estrutura básica e prática com flex grow
+        - [ ] Estrutura básica do flex basis  
+        - [ ] Estrutura básica do flex shrink  
+        - [ ] Prática com flex shrink  
+        - [ ] Estrutura básica e prática com flex  
+        - [ ] Estrutura básica e prática com order  
+        - [ ] Estrutura básica e prática com align self  
+      - [ ] Projeto Integrador  
+        - [ ] Apresentação e preparação do projeto  
+        - [ ] Organizando a interface - parte 1.1  
+        - [ ] Organizando a interface - parte 1.2  
+        - [ ] Organizando a interface - parte 1.3  
+        - [ ] Organizando a interface - parte 2  
+        - [ ] Organizando a interface - parte 3  
+        - [ ] Conclusão do curso  
+        - [ ] Gitlab  
+        - [ ] Slides  
+        - [ ] Certifique seu conhecimento  
   - [ ] Curso - Recriando a página inicial do Instagram  
 
 

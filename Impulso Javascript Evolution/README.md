@@ -19,6 +19,9 @@
   - [x] Curso - Introdução a criação de websites com HTML5 e CSS3  
   - [ ] Curso - Posicionando elementos com Flexbox em CSS
       - [X] Introdução ao curso  
+        - [ ] Apresentação do curso
+        - [ ] Proposta de projeto final
+        - [ ] Introdução ao Flexbox
       - [ ] Fundamentos do Flexbox - Parte 1  
       - [ ] Fundamentos do Flexbox - Parte 2  
       - [ ] Projeto Integrador

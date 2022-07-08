@@ -17,7 +17,11 @@
 - [ ] Módulo II - Fundamentos Web com HTML e CSS  
   - [x] Curso - Primeiros passos para desenvolvimento Web  
   - [x] Curso - Introdução a criação de websites com HTML5 e CSS3  
-  - [ ] Curso - Posicionando elementos com Flexbox em CSS  
+  - [ ] Curso - Posicionando elementos com Flexbox em CSS
+      - [X] Introdução ao curso  
+      - [ ] Fundamentos do Flexbox - Parte 1  
+      - [ ] Fundamentos do Flexbox - Parte 2  
+      - [ ] Projeto Integrador
   - [ ] Curso - Recriando a página inicial do Instagram  
 
 

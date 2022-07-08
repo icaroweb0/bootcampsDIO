@@ -41,7 +41,7 @@
 - [ ] Módulo IV - Front-End: Desenvolvimento Web com React  
   - [ ] Curso - Conhecendo os principais protocolos de comunicação da internet  
   - [ ] Curso - Introdução ao ReactJs  
-Desenvolvimento de aplicações para internet com ReactJS  
+  - [ ] Curso - Desenvolvimento de aplicações para internet com ReactJS  
   - [ ] Curso - Introdução ao React Hooks  
   - [ ] Curso - Trabalhando com States & Effects no ReactJs  
   - [ ] Curso - Práticas avançadas em projetos com ReactJs  

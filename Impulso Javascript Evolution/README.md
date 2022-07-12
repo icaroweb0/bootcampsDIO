@@ -157,13 +157,13 @@
 
   - [ ] Curso - Sintaxe e operadores
     - [ ] Tópico - Operadores
-    - [ ] Aula - Apresentação do curso
-    - [ ] Aula - Operadores  
+      - [ ] Aula - Apresentação do curso
+      - [ ] Aula - Operadores  
 
     - [ ] Tópico - Atividade prática
-    - [ ] Aula - Explicando a atividade
-    - [ ] Atividade prática
-    - [ ] Certifique seu conhecimento  
+      - [ ] Aula - Explicando a atividade
+      - [ ] Atividade prática
+      - [ ] Certifique seu conhecimento  
 
   - [ ] Curso - Variáveis e Tipos
     - [ ] Tópico - Atribuindo valores

@@ -73,7 +73,7 @@
   - [ ] Curso - IDE Instalação e configuração do VS Code
 
     - [ ] Tópico - Instalando o VS code
-      - [ ] Aula - Apresentação do Curso  
+      - [ ] Aula - Apresentação do Curso
       - [ ] Aula - Instalação  
 
     - [ ] Tópico - Recursos básicos
@@ -165,40 +165,40 @@
     - [ ] Atividade prática
     - [ ] Certifique seu conhecimento  
 
-  - [ ] Curso - Variáveis e Tipos  
+  - [ ] Curso - Variáveis e Tipos
     - [ ] Tópico - Atribuindo valores
-      - [ ] Aula - Apresentando o curso  
-      - [ ] Aula - Variáveis  
-      - [ ] Aula - Constantes  
+      - [ ] Aula - Apresentando o curso
+      - [ ] Aula - Variáveis
+      - [ ] Aula - Constantes
       - [ ] Aula - let, var e const  
 
     - [ ] Tópico - Tipos
-      - [ ] Aula - Estrutura de dados  
-      - [ ] Aula - Strings  
-      - [ ] Aula - Numbers  
-      - [ ] Aula - Booleans  
-      - [ ] Aula - Arrays  
-      - [ ] Aula - Objetos  
+      - [ ] Aula - Estrutura de dados
+      - [ ] Aula - Strings
+      - [ ] Aula - Numbers
+      - [ ] Aula - Booleans
+      - [ ] Aula - Arrays
+      - [ ] Aula - Objetos
       - [ ] Aula - Empty, undefined e null  
 
     - [ ] Tópico - Atividade prática
-      - [ ] Aula - Verificar palíndromo  
-      - [ ] Aula - Substituir números pares  
-      - [ ] Certifique seu conhecimento      
+      - [ ] Aula - Verificar palíndromo
+      - [ ] Aula - Substituir números pares
+      - [ ] Certifique seu conhecimento  
 
 
-  - [ ] Curso - Funções  
+  - [ ] Curso - Funções
     - [ ] Tópico - Tipos de funções
-      - [ ] Aula - Apresentação do curso  
-      - [ ] Aula - Estrutura e função anônima  
+      - [ ] Aula - Apresentação do curso
+      - [ ] Aula - Estrutura e função anônima
       - [ ] Aula - Função autoinvocável e callbacks  
 
     - [ ] Tópico - Parâmetros
-      - [ ] Aula - Valores padrão e objeto "arguments"  
+      - [ ] Aula - Valores padrão e objeto "arguments"
       - [ ] Aula - Arrays e objetos  
 
     - [ ] Tópico - Loops
-      - [ ] Aula - if/else e Switch  
+      - [ ] Aula - if/else e Switch
       - [ ] Aula - For e while  
 
     - [ ] Tópico - This
@@ -206,9 +206,9 @@
       - [ ] Aula - Manipulando o seu valor  
 
     - [ ] Tópico - Arrow functions
-      - [ ] Aula - Sintaxe e outras restrições  
+      - [ ] Aula - Sintaxe e outras restrições
       - [ ] Atividade prática
-      - [ ] Certifique seu conhecimento
+      - [ ] Certifique seu conhecimento  
 
 
   - [ ] Curso - Debugging e Error Handling  

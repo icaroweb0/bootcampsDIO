@@ -18,10 +18,12 @@
   - [x] Curso - Primeiros passos para desenvolvimento Web  
   - [x] Curso - Introdução a criação de websites com HTML5 e CSS3  
   - [ ] Curso - Posicionando elementos com Flexbox em CSS
+
       - [x] Introdução ao curso  
         - [x] Apresentação do curso  
         - [x] Proposta de projeto final  
         - [x] Introdução ao Flexbox  
+
       - [ ] Fundamentos do Flexbox - Parte 1  
         - [x] Estrutura básica do display: Flex  
         - [x] Prática com disply: flex  
@@ -32,7 +34,8 @@
         - [x] Prática com justify content - Parte 1  
         - [x] Prática com justify content - Parte 2  
         - [x] Estrutura básica e prática com align items  
-        - [x] Estrutura básica e prática com align content  
+        - [x] Estrutura básica e prática com align content 
+       
       - [ ] Fundamentos do Flexbox - Parte 2  
         - [ ] Estrutura básica e prática com flex grow
         - [ ] Estrutura básica do flex basis  
@@ -41,6 +44,7 @@
         - [ ] Estrutura básica e prática com flex  
         - [ ] Estrutura básica e prática com order  
         - [ ] Estrutura básica e prática com align self  
+
       - [ ] Projeto Integrador  
         - [ ] Apresentação e preparação do projeto  
         - [ ] Organizando a interface - parte 1.1  
@@ -52,32 +56,175 @@
         - [ ] Gitlab  
         - [ ] Slides  
         - [ ] Certifique seu conhecimento  
+
+
   - [ ] Curso - Recriando a página inicial do Instagram  
+    - [ ] Aula - Parte 1  
+    - [ ] Aula - Parte 2  
+    - [ ] Aula - Parte 3  
+    - [ ] Aula - Parte 4  
+    - [ ] Aula - Entendendo o desafio  
+    - [ ] Entregar projeto  
 
 
 - [ ] Módulo III - Dominando a linguagem de programação JS  
-  - [ ] Curso - IDE Instalação e configuração do VS Code
+
+
+  - [ ] Curso - IDE Instalação e configuração do VS Code  
+
     - [ ] Tópico - Instalando o VS code  
       - [ ] Aula - Apresentação do Curso  
       - [ ] Aula - Instalação  
+
     - [ ] Tópico - Recursos básicos  
       - [ ] Aula - Recursos básicos  
+
     - [ ] Tópico - Extensões e temas  
       - [ ] Aula - Extensões e temas  
+
     - [ ] Tópico - Terminal e Git  
       - [ ] Aula - Terminal e Git  
+
+
   - [ ] Curso - Introdução ao JS  
+    
+    - [ ] Tópico - O que é JavaScript?  
+      - [ ] Aula - Apresentação do curso  
+      - [ ] Aula - História, Evolução e Aplicações  
+      - [ ] SLides 1  
+      - [ ] Slides 2  
+    
+    - [ ] Tópico - Recursos básicos da linguagem  
+      - [ ] Aula - Manipulando um arquivo  
+      - [ ] Aula - Funções  
+      - [ ] Slides  
+
+    - [ ] Tópico - Console  
+      - [ ] Aula - Executando um arquivo js  
+      - [ ] Slides  
+
+    - [ ] Tópico - JavaScript em uma página da web  
+      - [ ] Aula - Estrutura de projeto  
+      - [ ] Aula - Inserindo JS numa página HTML  
+      - [ ] Aula - Interagindo com os elementos do DOM  
+      - [ ] Slides  
+
+    - [ ] Tópico - Colocando em prática  
+      - [ ] Aula - Criando um contador  
+      - [ ] Aula - Desafio do to-do list  
+      - [ ] Slides  
+      - [ ] Github  
+
+    - [ ] Tópico - Mercado de trabalho  
+      - [ ] Aula - Frameworks  
+      - [ ] Aula - Mercado de trabalho  
+      - [ ] Slides  
+      - [ ] Certifique seu conhecimento  
+
+
   - [ ] Curso - Sintaxe básica em JS  
+
+    - [ ] Tópico - Apresentação do curso  
+      - [ ] Aula - Apresentação do curso  
+      - [ ] Slides  
+
+    - [ ] Tópico - O que é o danado do JS?  
+      - [ ] Aula - O que é o danado do JS?  
+      - [ ] Slides  
+
+    - [ ] Tópico - Entendendo variáveis e seus valores  
+      - [ ] Aula - Entendendo variáveis e seus valores  
+      - [ ] Slides  
+
+    - [ ] Tópico - Vetores e objetos  
+      - [ ] Aula - Vetores e Objetos  
+      - [ ] Slides  
+
+    - [ ] Tópico - Estruturas condicionais  
+      - [ ] Aula - Estruturas condicionais  
+      - [ ] Slides  
+
+    - [ ] Tópico - Funções e suas particularidades  
+      - [ ] Aula - Funções e suas particularidades  
+      - [ ] Slides  
+
+    - [ ] Tópico - Aprofundando em funções  
+      - [ ] Aula - Aprofundando em funções  
+      - [ ] Slides  
+      - [ ] Link Github  
+      - [ ] Certifique seus conhecimentos  
+
+
   - [ ] Curso - Sintaxe e operadores  
+    - [ ] Tópico - Operadores  
+    - [ ] Aula - Apresentação do curso  
+    - [ ] Aula - Operadores  
+
+    - [ ] Tópico - Atividade prática  
+    - [ ] Aula - Explicando a atividade  
+    - [ ] Atividade prática  
+    - [ ] Certifique seu conhecimento  
+
   - [ ] Curso - Variáveis e Tipos  
+    - [ ] Tópico - Atribuindo valores  
+      - [ ] Aula - Apresentando o curso  
+      - [ ] Aula - Variáveis  
+      - [ ] Aula - Constantes  
+      - [ ] Aula - let, var e const  
+
+    - [ ] Tópico - Tipos  
+      - [ ] Aula - Estrutura de dados  
+      - [ ] Aula - Strings  
+      - [ ] Aula - Numbers  
+      - [ ] Aula - Booleans  
+      - [ ] Aula - Arrays  
+      - [ ] Aula - Objetos  
+      - [ ] Aula - Empty, undefined e null  
+
+    - [ ] Tópico - Atividade prática  
+      - [ ] Aula - Verificar palíndromo  
+      - [ ] Aula - Substituir números pares  
+      - [ ] Certifique seu conhecimento      
+
+
   - [ ] Curso - Funções  
+    - [ ] Tópico - Tipos de funções  
+      - [ ] Aula - Apresentação do curso  
+      - [ ] Aula - Estrutura e função anônima  
+      - [ ] Aula - Função autoinvocável e callbacks  
+
+    - [ ] Tópico - Parâmetros  
+      - [ ] Aula - Valores padrão e objeto "arguments"  
+      - [ ] Aula - Arrays e objetos  
+
+    - [ ] Tópico - Loops  
+      - [ ] Aula - if/else e Switch  
+      - [ ] Aula - For e while  
+
+    - [ ] Tópico - This  
+      - [ ] Aula - O que é this?
+      - [ ] Aula - Manipulando o seu valor  
+
+    - [ ] Tópico - Arrow functions
+      - [ ] Aula - Sintaxe e outras restrições  
+      - [ ] Atividade prática
+      - [ ] Certifique seu conhecimento
+
+
   - [ ] Curso - Debugging e Error Handling  
+
   - [ ] Desafio de código - Desafios iniciais JS - IJSE  
+
   - [ ] Curso - Manipulando a D.O.M. com JS  
+
   - [ ] Curso - JS assíncrono  
+
   - [ ] Curso - Orientação a objetos
+
   - [ ] Curso - Introdução ao TypeScript: Explorando classes, tipos e interfaces  
+
   - [ ] Desafio de código - Desafios intermediários JS - IJSE  
+
   - [ ] Desafio de projeto - Introdução prática ao TS  
 
 

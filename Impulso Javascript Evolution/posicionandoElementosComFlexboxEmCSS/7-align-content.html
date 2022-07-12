@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fundamentos - Align content</title>
+    <style>
+        .container{
+            height: 400px;
+            max-width: 300px;
+            display: flex;
+            flex-wrap: wrap;
+            border: 2px solid black;
+        }
+
+        .item{
+            background-color: orange;
+            padding: 0 5px;
+            margin: 5px;
+            flex: 1;
+            text-align: center;
+            color: white;
+        }
+
+        .stretch{
+            align-content: stretch;
+        }
+
+        .center{
+            align-content: center;
+        }
+
+        .flex-start{
+            align-content: flex-start;
+        }
+
+        .flex-end{
+            align-content: flex-end;
+        }
+
+        .space-around{
+            align-content: space-around;
+        }
+
+        .space-between{
+            align-content: space-between;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>row</h1>
+    <h2>align-content: stretch</h2>
+    <div class="container stretch">
+        <div class="item">Lorem ipsum dolor sit amet conse </div>
+        <div class="item">magni temporibus incidunt ppsum eaque fugiat.</div>
+        <div class="item">Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sitnsectetur</div>
+        <div class="item">Lorem ipsum dolor Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sitnsectetursit amet consectetur</div>
+        <div class="item">Lorem  amet consectetur</div>
+        <div class="item">Lorem ipsum dolor sit amet consecteturLorem ipsum dolor sit amet consectetur</div>
+        <div class="item">Lorem ipsum dolor sit amet consecteturLorem ipsum dolor sit amet consectetur</div>
+    </div>
+    
+    <h2>align-content: center</h2>
+    <div class="container center">
+        <div class="item">Lorem ipsum dolor sit amet conse </div>
+        <div class="item">magni temporibus incidunt ppsum eaque fugiat.</div>
+        <div class="item">Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sitnsectetur</div>
+        <div class="item">Lorem ipsum dolor Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sitnsectetursit amet consectetur</div>
+        <div class="item">Lorem  amet consectetur</div>
+        <div class="item">Lorem ipsum dolor sit amet consecteturLorem ipsum dolor sit amet consectetur</div>
+        <div class="item">Lorem ipsum dolor sit amet consecteturLorem ipsum dolor sit amet consectetur</div>
+    </div>
+
+    <h2>align-content: flex-start</h2>
+    <div class="container flex-start">
+        <div class="item">Lorem ipsum dolor sit amet conse </div>
+        <div class="item">magni temporibus incidunt ppsum eaque fugiat.</div>
+        <div class="item">Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sitnsectetur</div>
+        <div class="item">Lorem ipsum dolor Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sitnsectetursit amet consectetur</div>
+        <div class="item">Lorem  amet consectetur</div>
+        <div class="item">Lorem ipsum dolor sit amet consecteturLorem ipsum dolor sit amet consectetur</div>
+        <div class="item">Lorem ipsum dolor sit amet consecteturLorem ipsum dolor sit amet consectetur</div>
+    </div>
+    
+    <h2>align-content: flex-end</h2>
+    <div class="container flex-end">
+        <div class="item">Lorem ipsum dolor sit amet conse </div>
+        <div class="item">magni temporibus incidunt ppsum eaque fugiat.</div>
+        <div class="item">Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sitnsectetur</div>
+        <div class="item">Lorem ipsum dolor Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sitnsectetursit amet consectetur</div>
+        <div class="item">Lorem  amet consectetur</div>
+        <div class="item">Lorem ipsum dolor sit amet consecteturLorem ipsum dolor sit amet consectetur</div>
+        <div class="item">Lorem ipsum dolor sit amet consecteturLorem ipsum dolor sit amet consectetur</div>        
+    </div>
+
+    <h2>align-content: space-around</h2>
+    <div class="container space-around">
+        <div class="item">Lorem ipsum dolor sit amet conse </div>
+        <div class="item">magni temporibus incidunt ppsum eaque fugiat.</div>
+        <div class="item">Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sitnsectetur</div>
+        <div class="item">Lorem ipsum dolor Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sitnsectetursit amet consectetur</div>
+        <div class="item">Lorem  amet consectetur</div>
+        <div class="item">Lorem ipsum dolor sit amet consecteturLorem ipsum dolor sit amet consectetur</div>
+        <div class="item">Lorem ipsum dolor sit amet consecteturLorem ipsum dolor sit amet consectetur</div>        
+    </div>
+
+    <h2>align-content: space-between</h2>
+    <div class="container space-between">
+        <div class="item">Lorem ipsum dolor sit amet conse </div>
+        <div class="item">magni temporibus incidunt ppsum eaque fugiat.</div>
+        <div class="item">Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sitnsectetur</div>
+        <div class="item">Lorem ipsum dolor Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sitnsectetursit amet consectetur</div>
+        <div class="item">Lorem  amet consectetur</div>
+        <div class="item">Lorem ipsum dolor sit amet consecteturLorem ipsum dolor sit amet consectetur</div>
+        <div class="item">Lorem ipsum dolor sit amet consecteturLorem ipsum dolor sit amet consectetur</div>        
+    </div>
+</body>
+</body>
+</html>

@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fundamento - Align items </title>
+    <style>
+        .container{
+            max-width: 350px;
+            border: 1px solid black;
+            display: flex;
+        }
+
+        .item{
+            background-color: brown;
+            margin: 5px;
+            color: white;
+            text-align: center;   
+            flex: 1;         
+        }
+
+        .center{
+            align-items: center;
+        }
+
+        .stretch{
+            align-items: stretch;
+        }
+
+        .flex-start{
+            align-items: flex-start;
+        }
+
+        .flex-end{
+            align-items: flex-end;
+        }
+
+        .baseline{
+            align-items: baseline;
+        }
+
+        .column{
+            flex-direction: column;
+        }
+
+        .central{
+            height: 300px;
+            justify-content: center ;
+        }
+
+        .central .item{
+            flex: 0;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h2>align itens - center</h2>
+    <section class="container center">
+        <div class="item">item 1</div>
+        <div class="item">Lorem idbaskjdbnaskjdn dahjsbdashd asdiabsnd askdbn a</div>
+        <div class="item">item 3 asodjhasdo aj aopsidja sodun asdoaisd apoisjdaspodjasopidj asdijasdoia jdoasijd asidj adjas</div>
+    </section>
+
+    <h2>align itens - stretch</h2>
+    <section class="container stretch">
+        <div class="item">item 1</div>
+        <div class="item">Ldbnashidbaskjdbnaskjdn dahjsbdashd asdiabsnd askdbn a</div>
+        <div class="item">item 3 asodjhasdo aj aopsidja sodun asdoaisd apoisjdaspodjasopidj asdijasdoia jdoasijd asidj adjas</div>
+    </section>
+
+    <h2>align itens - flex-start</h2>
+    <section class="container flex-start">
+        <div class="item">item 1</div>
+        <div class="item">Lorem ipsum  ajsdbnashidbaskjdbnaskjdn dahjsbdashd asdiabsnd askdbn a</div>
+        <div class="item">item 3 asodjhasdo aj aopsidja sodun asdoaisd apoisjdaspodjasopidj asdijasdoia jdoasijd asidj adjas</div>
+    </section>
+
+    <h2>align itens - flex-end</h2>
+    <section class="container flex-end">
+        <div class="item">item 1</div>
+        <div class="item">Lorem ipsum dolor sit amet  a</div>
+        <div class="item">item 3 asodjhasdo aj aopsidja sodun asdoaisd apoisjdaspodjasopidj asdijasdoia jdoasijd asidj adjas</div>
+    </section>
+
+    <h2>align itens - baseline</h2>
+    <section class="container baseline">
+        <div class="item"> item 1</div>
+        <div class="item">Lorem ipsum dolor sit amet  a</div>
+        <div class="item">item 3 asodjhasdo aj aopsidja sodun asdoaisd apoisjdaspodjasopidj asdijasdoia jdoasijd asidj adjas</div>
+    </section>
+
+    <h1>Column</h1>
+    <h2>align itens - flex-start column</h2>
+    <section class="container flex-start column">
+        <div class="item"> item 1</div>
+        <div class="item">Lorem ipsum dolor sit amet  a</div>
+        <div class="item">item 3 asodjhasdo aj aopsidja sodun asdoaisd apoisjdaspodjasopidj asdijasdoia jdoasijd asidj adjas</div>
+    </section>
+
+    <h2>align itens - flex-end column</h2>
+    <section class="container flex-end column">
+        <div class="item"> item 1</div>
+        <div class="item">Lorem ipsum dolor sit amet  a</div>
+        <div class="item">item 3 asodjhasdo aj aopsidja sodun asdoaisd apoisjdaspodjasopidj asdijasdoia jdoasijd asidj adjas</div>
+    </section>
+
+    <h2>align itens - center column</h2>
+    <section class="container center column">
+        <div class="item"> item 1</div>
+        <div class="item">Lorem ipsum dolor sit amet  a</div>
+        <div class="item">item 3 asodjhasdo aj aopsidja sodun asdoaisd apoisjdaspodjasopidj asdijasdoia jdoasijd asidj adjas</div>
+    </section>
+
+    <h2>align itens - stretch column</h2>
+    <section class="container stretch column">
+        <div class="item"> item 1</div>
+        <div class="item">Lorem ipsum dolor sit amet  a</div>
+        <div class="item">item 3 asodjhasdo aj aopsidja sodun asdoaisd apoisjdaspodjasopidj asdijasdoia jdoasijd asidj adjas</div>
+    </section>
+
+    <h2>align itens - baseline column</h2>
+    <section class="container baseline column">
+        <div class="item"> item 1</div>
+        <div class="item">Lorem ipsum dolor sit amet  a</div>
+        <div class="item">item 3 asodjhasdo aj aopsidja sodun asdoaisd apoisjdaspodjasopidj asdijasdoia jdoasijd asidj adjas</div>
+    </section>
+
+    <section class="container central center">
+        <div class="item">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur beatae minus accusa
+        </div>
+    </section>
+</body>
+</html>

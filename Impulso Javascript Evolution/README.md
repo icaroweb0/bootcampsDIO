@@ -29,10 +29,10 @@
         - [x] Prática com flex direction  
         - [x] Estrutura básica e prática com flex flow  
         - [x] Estrutura básica do justify content  
-        - [ ] Prática com justify content - Parte 1  
-        - [ ] Prática com justify content - Parte 2  
-        - [ ] Estrutura básica e prática com align items  
-        - [ ] Estrutura básica e prática com align content  
+        - [x] Prática com justify content - Parte 1  
+        - [x] Prática com justify content - Parte 2  
+        - [x] Estrutura básica e prática com align items  
+        - [x] Estrutura básica e prática com align content  
       - [ ] Fundamentos do Flexbox - Parte 2  
         - [ ] Estrutura básica e prática com flex grow
         - [ ] Estrutura básica do flex basis  

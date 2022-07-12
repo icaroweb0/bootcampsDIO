@@ -56,7 +56,16 @@
 
 
 - [ ] Módulo III - Dominando a linguagem de programação JS  
-  - [ ] Curso - IDE Instalação e configuração do VS Code  
+  - [ ] Curso - IDE Instalação e configuração do VS Code
+    - [ ] Tópico - Instalando o VS code  
+      - [ ] Aula - Apresentação do Curso  
+      - [ ] Aula - Instalação  
+    - [ ] Tópico - Recursos básicos  
+      - [ ] Aula - Recursos básicos  
+    - [ ] Tópico - Extensões e temas  
+      - [ ] Aula - Extensões e temas  
+    - [ ] Tópico - Terminal e Git  
+      - [ ] Aula - Terminal e Git  
   - [ ] Curso - Introdução ao JS  
   - [ ] Curso - Sintaxe básica em JS  
   - [ ] Curso - Sintaxe e operadores  

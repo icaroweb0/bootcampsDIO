@@ -37,8 +37,9 @@
         - [x] Estrutura básica e prática com align content 
        
       - [ ] Fundamentos do Flexbox - Parte 2  
-        - [ ] Estrutura básica e prática com flex grow
-        - [ ] Estrutura básica do flex basis  
+        - [x] Estrutura básica e prática com flex grow
+        - [x] Estrutura básica do flex basis 
+        - [x] Prática com flex-basis 
         - [ ] Estrutura básica do flex shrink  
         - [ ] Prática com flex shrink  
         - [ ] Estrutura básica e prática com flex  

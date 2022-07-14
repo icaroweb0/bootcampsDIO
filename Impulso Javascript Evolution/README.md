@@ -40,8 +40,8 @@
         - [x] Estrutura básica e prática com flex grow
         - [x] Estrutura básica do flex basis 
         - [x] Prática com flex-basis 
-        - [ ] Estrutura básica do flex shrink  
-        - [ ] Prática com flex shrink  
+        - [x] Estrutura básica do flex shrink  
+        - [x] Prática com flex shrink  
         - [ ] Estrutura básica e prática com flex  
         - [ ] Estrutura básica e prática com order  
         - [ ] Estrutura básica e prática com align self  

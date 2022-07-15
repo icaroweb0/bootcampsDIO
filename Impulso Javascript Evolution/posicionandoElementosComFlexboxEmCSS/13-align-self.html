@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fundamentos - Align:self</title>
+    <style>
+        .flex-container{
+            max-width: 350px;
+            border: 2px solid black;
+            margin-bottom: 10px;
+            display: flex;
+        }
+
+        .col {
+            flex-direction: column ;
+        }
+
+        .align-container {
+            align-items: center;
+        }
+
+        .item {
+            background-color: brown;
+            color: white;
+            font-size: 24px;
+            text-align: center;
+            margin: 5px;
+        }
+
+        .center {
+            align-self: center;
+        }
+
+        .start {
+            align-self: flex-start;
+        }
+
+        .end {
+            align-self: flex-end;
+        }
+
+        .baseline {
+            align-self: baseline;
+        }
+
+        .stretch {
+            align-self: stretch;
+        }
+
+        .auto {
+            align-self: auto;
+        }
+
+    </style>
+</head>
+<body>  
+    <h2>align-self: auto, align-items: center</h2>
+    <div class="flex-container align-container">
+        <div class="item">diasjdoasdjasd asdasd </div>
+        <div class="item">das</div>
+        <div class="item">45a</div>
+        <div class="item">das</div>
+        <div class="item">Item 4</div>
+    </div>
+
+    <h2>align-self: mix, align-items: mix</h2>
+    <div class="flex-container">
+        <div class="item">diasjdoasdjasd asdasd alçskdasldkmn laskdnasl </div>
+        <div class="item end">das</div>
+        <div class="item start">adsd</div>
+        <div class="item center">das</div>
+        <div class="item baseline">Item 4</div>
+    </div>
+
+    <h2>col align-self: auto, align-items: center</h2>
+    <div class="col flex-container align-container">
+        <div class="item">diasjdoasdjasd asdasd </div>
+        <div class="item">das</div>
+        <div class="item">45a</div>
+        <div class="item">das</div>
+        <div class="item">Item 4</div>
+    </div>
+
+    <h2>col align-self: mix, align-items: mix</h2>
+    <div class="col flex-container">
+        <div class="item ">dias jdo laskdnasl </div>
+        <div class="item end">das</div>
+        <div class="item start">adsd</div>
+        <div class="item center">das</div>
+        <div class="item baseline">Item 4</div>
+    </div>
+</body>
+</html>

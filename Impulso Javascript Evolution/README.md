@@ -17,14 +17,14 @@
 - [ ] Módulo II - Fundamentos Web com HTML e CSS  
   - [x] Curso - Primeiros passos para desenvolvimento Web  
   - [x] Curso - Introdução a criação de websites com HTML5 e CSS3  
-  - [ ] Curso - Posicionando elementos com Flexbox em CSS
+  - [x] Curso - Posicionando elementos com Flexbox em CSS
 
       - [x] Introdução ao curso  
         - [x] Apresentação do curso  
         - [x] Proposta de projeto final  
         - [x] Introdução ao Flexbox  
 
-      - [ ] Fundamentos do Flexbox - Parte 1  
+      - [x] Fundamentos do Flexbox - Parte 1  
         - [x] Estrutura básica do display: Flex  
         - [x] Prática com disply: flex  
         - [x] Estrutura básica do Flex direction  
@@ -36,27 +36,27 @@
         - [x] Estrutura básica e prática com align items  
         - [x] Estrutura básica e prática com align content 
        
-      - [ ] Fundamentos do Flexbox - Parte 2  
+      - [x] Fundamentos do Flexbox - Parte 2  
         - [x] Estrutura básica e prática com flex grow
         - [x] Estrutura básica do flex basis 
         - [x] Prática com flex-basis 
         - [x] Estrutura básica do flex shrink  
         - [x] Prática com flex shrink  
-        - [ ] Estrutura básica e prática com flex  
-        - [ ] Estrutura básica e prática com order  
-        - [ ] Estrutura básica e prática com align self  
+        - [x] Estrutura básica e prática com flex  
+        - [x] Estrutura básica e prática com order  
+        - [x] Estrutura básica e prática com align self  
 
-      - [ ] Projeto Integrador  
-        - [ ] Apresentação e preparação do projeto  
-        - [ ] Organizando a interface - parte 1.1  
-        - [ ] Organizando a interface - parte 1.2  
-        - [ ] Organizando a interface - parte 1.3  
-        - [ ] Organizando a interface - parte 2  
-        - [ ] Organizando a interface - parte 3  
-        - [ ] Conclusão do curso  
-        - [ ] Gitlab  
-        - [ ] Slides  
-        - [ ] Certifique seu conhecimento  
+      - [x] Projeto Integrador  
+        - [x] Apresentação e preparação do projeto  
+        - [x] Organizando a interface - parte 1.1  
+        - [x] Organizando a interface - parte 1.2  
+        - [x] Organizando a interface - parte 1.3  
+        - [x] Organizando a interface - parte 2  
+        - [x] Organizando a interface - parte 3  
+        - [x] Conclusão do curso  
+        - [x] Gitlab  
+        - [x] Slides  
+        - [x] Certifique seu conhecimento  
 
 
   - [ ] Curso - Recriando a página inicial do Instagram  

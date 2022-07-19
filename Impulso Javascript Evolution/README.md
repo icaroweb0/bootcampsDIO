@@ -59,12 +59,12 @@
         - [x] Certifique seu conhecimento  
 
 
-  - [ ] Curso - Recriando a página inicial do Instagram  
-    - [ ] Aula - Parte 1  
-    - [ ] Aula - Parte 2  
-    - [ ] Aula - Parte 3  
-    - [ ] Aula - Parte 4  
-    - [ ] Aula - Entendendo o desafio  
+  - [x] Curso - Recriando a página inicial do Instagram  
+    - [x] Aula - Parte 1  
+    - [x] Aula - Parte 2  
+    - [x] Aula - Parte 3  
+    - [x] Aula - Parte 4  
+    - [x] Aula - Entendendo o desafio  
     - [ ] Entregar projeto  
 
 

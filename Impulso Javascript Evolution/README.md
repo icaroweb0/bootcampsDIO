@@ -65,35 +65,35 @@
     - [x] Aula - Parte 3  
     - [x] Aula - Parte 4  
     - [x] Aula - Entendendo o desafio  
-    - [ ] Entregar projeto  
+    - [x] Entregar projeto  
 
 
 - [ ] Módulo III - Dominando a linguagem de programação JS  
 
 
-  - [ ] Curso - IDE Instalação e configuração do VS Code
+  - [x] Curso - IDE Instalação e configuração do VS Code
 
-    - [ ] Tópico - Instalando o VS code
-      - [ ] Aula - Apresentação do Curso
-      - [ ] Aula - Instalação  
+    - [x] Tópico - Instalando o VS code
+      - [x] Aula - Apresentação do Curso
+      - [x] Aula - Instalação  
 
-    - [ ] Tópico - Recursos básicos
-      - [ ] Aula - Recursos básicos  
+    - [x] Tópico - Recursos básicos
+      - [x] Aula - Recursos básicos  
 
-    - [ ] Tópico - Extensões e temas
-      - [ ] Aula - Extensões e temas  
+    - [x] Tópico - Extensões e temas
+      - [x] Aula - Extensões e temas  
 
-    - [ ] Tópico - Terminal e Git
-      - [ ] Aula - Terminal e Git  
+    - [x] Tópico - Terminal e Git
+      - [x] Aula - Terminal e Git  
 
 
   - [ ] Curso - Introdução ao JS
     
     - [ ] Tópico - O que é JavaScript?
-      - [ ] Aula - Apresentação do curso
-      - [ ] Aula - História, Evolução e Aplicações
-      - [ ] SLides 1
-      - [ ] Slides 2  
+      - [x] Aula - Apresentação do curso
+      - [x] Aula - História, Evolução e Aplicações
+      - [x] SLides 1
+      - [x] Slides 2  
     
     - [ ] Tópico - Recursos básicos da linguagem
       - [ ] Aula - Manipulando um arquivo

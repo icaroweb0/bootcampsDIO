@@ -107,7 +107,7 @@
     - [ ] Tópico - JavaScript em uma página da web
       - [x] Aula - Estrutura de projeto
       - [x] Aula - Inserindo JS numa página HTML
-      - [ ] Aula - Interagindo com os elementos do DOM
+      - [x] Aula - Interagindo com os elementos do DOM
       - [ ] Slides  
 
     - [ ] Tópico - Colocando em prática

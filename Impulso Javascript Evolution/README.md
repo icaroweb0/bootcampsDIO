@@ -108,10 +108,10 @@
       - [x] Aula - Estrutura de projeto
       - [x] Aula - Inserindo JS numa página HTML
       - [x] Aula - Interagindo com os elementos do DOM
-      - [ ] Slides  
+      - [x] Slides  
 
     - [ ] Tópico - Colocando em prática
-      - [ ] Aula - Criando um contador
+      - [x] [Aula - Criando um contador](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/introducaoAoJS/criandoUmContador)
       - [ ] Aula - Desafio do to-do list
       - [ ] Slides
       - [ ] Github  

@@ -89,7 +89,7 @@
 
   - [ ] Curso - Introdução ao JS
     
-    - [ ] Tópico - O que é JavaScript?
+    - [x] Tópico - O que é JavaScript?
       - [x] Aula - Apresentação do curso
       - [x] Aula - História, Evolução e Aplicações
       - [x] SLides 1
@@ -100,11 +100,11 @@
       - [x] Aula - Funções
       - [x] Slides  
 
-    - [ ] Tópico - Console
-      - [ ] Aula - Executando um arquivo js
-      - [ ] Slides  
+    - [x] Tópico - Console
+      - [x] Aula - Executando um arquivo js
+      - [x] Slides  
 
-    - [ ] Tópico - JavaScript em uma página da web
+    - [x] Tópico - JavaScript em uma página da web
       - [x] Aula - Estrutura de projeto
       - [x] Aula - Inserindo JS numa página HTML
       - [x] Aula - Interagindo com os elementos do DOM

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/style.css" />
+    <title>Contador</title>
+</head>
+<body>
+    <div id="container">
+        <div id="theme">
+            <i class="fas fa-sun" onclick="switchToSun()"></i>
+        </div>
+        <div id="contentWrapper">
+            <h1>Olá, mundo!</h1>
+            <p>Este é o meu primeiro projeto Javascript no bootcamp da DIO.</p>
+            <div id="counter">
+                <button id="subtrair" name="subtrair" onclick="decrement()">-</button>
+                <span id="currentNumber">0</span>
+                <button id="adicionar" name="adicionar" onclick="increment()">+</button>
+            </div>
+        </div>
+    </div>
+    <script src="assets/js/script.js"></script>
+    <script src="https://kit.fontawesome.com/ef4d478b1b.js" crossorigin="anonymous"></script>
+</body>
+</html>

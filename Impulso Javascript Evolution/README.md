@@ -95,18 +95,18 @@
       - [x] SLides 1
       - [x] Slides 2  
     
-    - [ ] Tópico - Recursos básicos da linguagem
-      - [ ] Aula - Manipulando um arquivo
-      - [ ] Aula - Funções
-      - [ ] Slides  
+    - [x] Tópico - Recursos básicos da linguagem
+      - [x] Aula - Manipulando um arquivo
+      - [x] Aula - Funções
+      - [x] Slides  
 
     - [ ] Tópico - Console
       - [ ] Aula - Executando um arquivo js
       - [ ] Slides  
 
     - [ ] Tópico - JavaScript em uma página da web
-      - [ ] Aula - Estrutura de projeto
-      - [ ] Aula - Inserindo JS numa página HTML
+      - [x] Aula - Estrutura de projeto
+      - [x] Aula - Inserindo JS numa página HTML
       - [ ] Aula - Interagindo com os elementos do DOM
       - [ ] Slides  
 

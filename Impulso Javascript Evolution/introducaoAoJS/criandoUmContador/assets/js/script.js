@@ -50,4 +50,4 @@ function switchToMoon() {
         document.body.style.color = '' 
         document.querySelectorAll('button')[0].style.backgroundColor = '';
         document.querySelectorAll('button')[1].style.backgroundColor = '';
-    }
+}

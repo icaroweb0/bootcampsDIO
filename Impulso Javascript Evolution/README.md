@@ -87,7 +87,7 @@
       - [x] Aula - Terminal e Git  
 
 
-  - [ ] Curso - Introdução ao JS
+  - [x] Curso - Introdução ao JS
     
     - [x] Tópico - O que é JavaScript?
       - [x] Aula - Apresentação do curso
@@ -110,24 +110,24 @@
       - [x] Aula - Interagindo com os elementos do DOM
       - [x] Slides  
 
-    - [ ] Tópico - Colocando em prática
+    - [x] Tópico - Colocando em prática
       - [x] [Aula - Criando um contador](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/introducaoAoJS/criandoUmContador)
-      - [ ] Aula - Desafio do to-do list
-      - [ ] Slides
-      - [ ] Github  
+      - [x] Aula - [Desafio do to-do list](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/introducaoAoJS/toDoListChallenge)
+      - [x] Slides
+      - [x] Github  
 
-    - [ ] Tópico - Mercado de trabalho
-      - [ ] Aula - Frameworks
-      - [ ] Aula - Mercado de trabalho
-      - [ ] Slides
-      - [ ] Certifique seu conhecimento  
+    - [x] Tópico - Mercado de trabalho
+      - [x] Aula - Frameworks
+      - [x] Aula - Mercado de trabalho
+      - [x] Slides
+      - [x] Certifique seu conhecimento  
 
 
   - [ ] Curso - Sintaxe básica em JS
 
-    - [ ] Tópico - Apresentação do curso
-      - [ ] Aula - Apresentação do curso
-      - [ ] Slides  
+    - [x] Tópico - Apresentação do curso
+      - [x] Aula - Apresentação do curso
+      - [x] Slides  
 
     - [ ] Tópico - O que é o danado do JS?
       - [ ] Aula - O que é o danado do JS?

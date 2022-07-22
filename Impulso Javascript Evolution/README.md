@@ -112,7 +112,7 @@
 
     - [x] Tópico - Colocando em prática
       - [x] [Aula - Criando um contador](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/introducaoAoJS/criandoUmContador)
-      - [x] Aula - [Desafio do to-do list](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/introducaoAoJS/toDoListChallenge)
+      - [x] [Aula - Desafio do to-do list](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/introducaoAoJS/toDoListChallenge)
       - [x] Slides
       - [x] Github  
 

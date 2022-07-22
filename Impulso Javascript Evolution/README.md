@@ -68,7 +68,7 @@
     - [x] Entregar projeto  
 
 
-- [ ] Módulo III - Dominando a linguagem de programação JS  
+- [x] Módulo III - Dominando a linguagem de programação JS  
 
 
   - [x] Curso - IDE Instalação e configuração do VS Code

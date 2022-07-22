@@ -129,21 +129,21 @@
       - [x] Aula - Apresentação do curso
       - [x] Slides  
 
-    - [ ] Tópico - O que é o danado do JS?
-      - [ ] Aula - O que é o danado do JS?
-      - [ ] Slides  
+    - [x] Tópico - O que é o danado do JS?
+      - [x] Aula - O que é o danado do JS?
+      - [x] Slides  
 
-    - [ ] Tópico - Entendendo variáveis e seus valores
-      - [ ] Aula - Entendendo variáveis e seus valores
-      - [ ] Slides  
+    - [x] Tópico - Entendendo variáveis e seus valores
+      - [x] Aula - Entendendo variáveis e seus valores
+      - [x] Slides  
 
-    - [ ] Tópico - Vetores e objetos
-      - [ ] Aula - Vetores e Objetos
-      - [ ] Slides  
+    - [x] Tópico - Vetores e objetos
+      - [x] Aula - Vetores e Objetos
+      - [x] Slides  
 
-    - [ ] Tópico - Estruturas condicionais
-      - [ ] Aula - Estruturas condicionais
-      - [ ] Slides  
+    - [x] Tópico - Estruturas condicionais
+      - [x] Aula - Estruturas condicionais
+      - [x] Slides  
 
     - [ ] Tópico - Funções e suas particularidades
       - [ ] Aula - Funções e suas particularidades

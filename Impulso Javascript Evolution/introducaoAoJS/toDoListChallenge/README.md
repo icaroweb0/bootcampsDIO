@@ -6,7 +6,7 @@ Este desafio foi proposto pelo bootcamp da DIO, foi disponibilizado um repositó
 ## fontes
 Minhas fontes de pesquisa sobre algumas propriedades que ainda não conheço do jquery ou querySelector têm sido o Youtube e o Mozilla MDN
 
-## Observações
+## observações
 O código está totalmente bagunçado pois ainda está em fase de "tentativa e erro" porém, assim que for concluído, o mesmo irá ser refatorado.
 
 ## refatoração

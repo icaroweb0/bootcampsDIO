@@ -1,9 +1,9 @@
 # TO DO List
 
-## Introdução
+## introdução
 Este desafio foi proposto pelo bootcamp da DIO, foi disponibilizado um repositório com o codigo final do projeto para consulta, porém até o momento não foi necessario realizar nenhuma consulta. 
 
-## Fontes
+## fontes
 Minhas fontes de pesquisa sobre algumas propriedades que ainda não conheço do jquery ou querySelector têm sido o Youtube e o Mozilla MDN
 
 ## Observações

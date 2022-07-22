@@ -1,0 +1,82 @@
+body {
+    padding: 50px;
+    margin: 0;
+    border: 0;
+    background-color: #1d2831;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#theme {
+    text-align: right;
+    width: 100%;
+    height: 30px;
+    font-size: 20px;
+    color: yellow;
+    margin-bottom: 5px ;
+    margin-right: 15px ;
+}
+
+.contentWrapper {
+    max-width: 400px;
+    max-height: 400px;
+    margin: auto;
+}
+
+.wrapper h1 {
+    color: white;
+    text-align: center;
+    font-size: 24px;
+}
+
+.wrapper label {
+    color: white;
+    text-align: center;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.wrapper {
+    background-color: #2b3e4e;
+    border: 2px solid rgb(173, 255, 47, 0.3);
+    border-radius: 5px;
+    width: 100%;
+    min-width: 250px;
+    padding: 20px;
+}
+
+#inputs {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    min-width: 150px ;
+}
+
+#inputs input {
+    margin-right: 5px;
+    
+}
+
+.checklist {
+    display: flex;
+    flex-direction: column;    
+    max-width: 100%;
+    color: white;    
+}
+
+.checkItem {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    align-self: auto;    
+}
+.checkItem label {    
+    margin-left: 5px;
+    
+}
+
+/*Dark Theme*/
+.dark {
+    color: rgb(26, 58, 75);
+}

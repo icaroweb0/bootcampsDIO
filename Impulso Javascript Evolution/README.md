@@ -123,7 +123,7 @@
       - [x] Certifique seu conhecimento  
 
 
-  - [ ] Curso - Sintaxe básica em JS
+  - [x] Curso - Sintaxe básica em JS
 
     - [x] Tópico - Apresentação do curso
       - [x] Aula - Apresentação do curso
@@ -145,15 +145,15 @@
       - [x] Aula - Estruturas condicionais
       - [x] Slides  
 
-    - [ ] Tópico - Funções e suas particularidades
-      - [ ] Aula - Funções e suas particularidades
-      - [ ] Slides  
+    - [x] Tópico - Funções e suas particularidades
+      - [x] Aula - Funções e suas particularidades
+      - [x] Slides  
 
-    - [ ] Tópico - Aprofundando em funções
-      - [ ] Aula - Aprofundando em funções
-      - [ ] Slides
-      - [ ] Link Github
-      - [ ] Certifique seus conhecimentos  
+    - [x] Tópico - Aprofundando em funções
+      - [x] Aula - Aprofundando em funções
+      - [x] Slides
+      - [x] Link Github
+      - [x] Certifique seus conhecimentos  
 
 
   - [ ] Curso - Sintaxe e operadores

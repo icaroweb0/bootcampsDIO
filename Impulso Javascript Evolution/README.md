@@ -137,8 +137,8 @@
       - [x] Aula - Entendendo variáveis e seus valores
       - [x] Slides  
 
-    - [x] [Tópico - Vetores e objetos](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/dominandoJS/sintaxeBasicaEmJavaScript/aula03-array-e-objetos)
-      - [x] Aula - Vetores e Objetos
+    - [x] Tópico - Vetores e objetos
+      - [x] [Aula - Vetores e Objetos](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/dominandoJS/sintaxeBasicaEmJavaScript/aula03-array-e-objetos)
       - [x] Slides  
 
     - [x] Tópico - Estruturas condicionais

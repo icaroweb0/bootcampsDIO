@@ -14,7 +14,7 @@
   - [x] Curso - Criando seu primeiro repositório no Github para compartilhar seu Progresso  
 
 
-- [ ] Módulo II - Fundamentos Web com HTML e CSS  
+- [x] [Módulo II - Fundamentos Web com HTML e CSS ](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/introducaoHtmlCss) 
   - [x] Curso - Primeiros passos para desenvolvimento Web  
   - [x] Curso - Introdução a criação de websites com HTML5 e CSS3  
   - [x] Curso - Posicionando elementos com Flexbox em CSS
@@ -87,7 +87,7 @@
       - [x] Aula - Terminal e Git  
 
 
-  - [x] Curso - Introdução ao JS
+  - [x] [Curso - Introdução ao JS](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/introducaoAoJS)
     
     - [x] Tópico - O que é JavaScript?
       - [x] Aula - Apresentação do curso
@@ -123,7 +123,7 @@
       - [x] Certifique seu conhecimento  
 
 
-  - [x] Curso - Sintaxe básica em JS
+  - [x] [Curso - Sintaxe básica em JS](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/sintaxeBasicaEmJavaScript)
 
     - [x] Tópico - Apresentação do curso
       - [x] Aula - Apresentação do curso
@@ -137,12 +137,12 @@
       - [x] Aula - Entendendo variáveis e seus valores
       - [x] Slides  
 
-    - [x] Tópico - Vetores e objetos
+    - [x] [Tópico - Vetores e objetos](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/sintaxeBasicaEmJavaScript/aula03-array-e-objetos)
       - [x] Aula - Vetores e Objetos
       - [x] Slides  
 
     - [x] Tópico - Estruturas condicionais
-      - [x] Aula - Estruturas condicionais
+      - [x] [Aula - Estruturas condicionais](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/sintaxeBasicaEmJavaScript/aula04-estruturas-condicionais)
       - [x] Slides  
 
     - [x] Tópico - Funções e suas particularidades
@@ -150,7 +150,7 @@
       - [x] Slides  
 
     - [x] Tópico - Aprofundando em funções
-      - [x] Aula - Aprofundando em funções
+      - [x] [Aula - Aprofundando em funções](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/sintaxeBasicaEmJavaScript/aula06-aprofundandoEmFuncoes)
       - [x] Slides
       - [x] Link Github
       - [x] Certifique seus conhecimentos  

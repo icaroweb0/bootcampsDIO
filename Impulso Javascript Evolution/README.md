@@ -14,10 +14,10 @@
   - [x] Curso - Criando seu primeiro repositório no Github para compartilhar seu Progresso  
 
 
-- [x] [Módulo II - Fundamentos Web com HTML e CSS ](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/introducaoHtmlCss) 
+- [x] [Módulo II - Fundamentos Web com HTML e CSS ](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/fundamentosWebHTMLeCSS) 
   - [x] Curso - Primeiros passos para desenvolvimento Web  
-  - [x] Curso - Introdução a criação de websites com HTML5 e CSS3  
-  - [x] Curso - Posicionando elementos com Flexbox em CSS
+  - [x] [Curso - Introdução a criação de websites com HTML5 e CSS3](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/fundamentosWebHTMLeCSS/introducaoHtmlCss) 
+  - [x] [Curso - Posicionando elementos com Flexbox em CSS](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/fundamentosWebHTMLeCSS/posicionandoElementosComFlexboxEmCSS)
 
       - [x] Introdução ao curso  
         - [x] Apresentação do curso  
@@ -59,7 +59,7 @@
         - [x] Certifique seu conhecimento  
 
 
-  - [x] Curso - Recriando a página inicial do Instagram  
+  - [x] [Curso - Recriando a página inicial do Instagram](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/fundamentosWebHTMLeCSS/recriandoAPaginaInicialInstagram)  
     - [x] Aula - Parte 1  
     - [x] Aula - Parte 2  
     - [x] Aula - Parte 3  
@@ -68,7 +68,7 @@
     - [x] Entregar projeto  
 
 
-- [x] Módulo III - Dominando a linguagem de programação JS  
+- [x] [Módulo III - Dominando a linguagem de programação JS](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/dominandoJS)  
 
 
   - [x] Curso - IDE Instalação e configuração do VS Code
@@ -87,7 +87,7 @@
       - [x] Aula - Terminal e Git  
 
 
-  - [x] [Curso - Introdução ao JS](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/introducaoAoJS)
+  - [x] [Curso - Introdução ao JS](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/dominandoJS/introducaoAoJS)
     
     - [x] Tópico - O que é JavaScript?
       - [x] Aula - Apresentação do curso
@@ -111,8 +111,8 @@
       - [x] Slides  
 
     - [x] Tópico - Colocando em prática
-      - [x] [Aula - Criando um contador](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/introducaoAoJS/criandoUmContador)
-      - [x] [Aula - Desafio do to-do list](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/introducaoAoJS/toDoListChallenge)
+      - [x] [Aula - Criando um contador](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/dominandoJS/introducaoAoJS/criandoUmContador)
+      - [x] [Aula - Desafio do to-do list](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/dominandoJS/introducaoAoJS/toDoListChallenge)
       - [x] Slides
       - [x] Github  
 
@@ -123,7 +123,7 @@
       - [x] Certifique seu conhecimento  
 
 
-  - [x] [Curso - Sintaxe básica em JS](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/sintaxeBasicaEmJavaScript)
+  - [x] [Curso - Sintaxe básica em JS](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/dominandoJS/sintaxeBasicaEmJavaScript)
 
     - [x] Tópico - Apresentação do curso
       - [x] Aula - Apresentação do curso
@@ -137,7 +137,7 @@
       - [x] Aula - Entendendo variáveis e seus valores
       - [x] Slides  
 
-    - [x] [Tópico - Vetores e objetos](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/sintaxeBasicaEmJavaScript/aula03-array-e-objetos)
+    - [x] [Tópico - Vetores e objetos](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/dominandoJS/sintaxeBasicaEmJavaScript/aula03-array-e-objetos)
       - [x] Aula - Vetores e Objetos
       - [x] Slides  
 
@@ -150,7 +150,7 @@
       - [x] Slides  
 
     - [x] Tópico - Aprofundando em funções
-      - [x] [Aula - Aprofundando em funções](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/sintaxeBasicaEmJavaScript/aula06-aprofundandoEmFuncoes)
+      - [x] [Aula - Aprofundando em funções](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/dominandoJS/sintaxeBasicaEmJavaScript/aula06-aprofundandoEmFuncoes)
       - [x] Slides
       - [x] Link Github
       - [x] Certifique seus conhecimentos  

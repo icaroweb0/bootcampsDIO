@@ -1,4 +1,4 @@
-# Estudos BootCamp DIO
+x# Estudos BootCamp DIO
 ## BootCamp Impulse JS Evolution
 
 - [x] Módulo 0 - Prepare-se para a Jornada  
@@ -157,76 +157,151 @@
 
 
   - [ ] Curso - Sintaxe e operadores
-    - [ ] Tópico - Operadores
-      - [ ] Aula - Apresentação do curso
-      - [ ] Aula - Operadores  
+    - [x] Tópico - Operadores
+      - [x] Aula - Apresentação do curso
+      - [x] Aula - Operadores  
 
-    - [ ] Tópico - Atividade prática
-      - [ ] Aula - Explicando a atividade
+    - [x] Tópico - Atividade prática
+      - [x] Aula - Explicando a atividade
       - [ ] Atividade prática
-      - [ ] Certifique seu conhecimento  
+      - [x] Certifique seu conhecimento  
 
   - [ ] Curso - Variáveis e Tipos
-    - [ ] Tópico - Atribuindo valores
-      - [ ] Aula - Apresentando o curso
-      - [ ] Aula - Variáveis
-      - [ ] Aula - Constantes
-      - [ ] Aula - let, var e const  
+    - [x] Tópico - Atribuindo valores
+      - [x] Aula - Apresentando o curso
+      - [x] Aula - Variáveis
+      - [x] Aula - Constantes
+      - [x] Aula - let, var e const  
 
-    - [ ] Tópico - Tipos
-      - [ ] Aula - Estrutura de dados
-      - [ ] Aula - Strings
-      - [ ] Aula - Numbers
-      - [ ] Aula - Booleans
-      - [ ] Aula - Arrays
-      - [ ] Aula - Objetos
-      - [ ] Aula - Empty, undefined e null  
+    - [x] Tópico - Tipos
+      - [x] Aula - Estrutura de dados
+      - [x] Aula - Strings
+      - [x] Aula - Numbers
+      - [x] Aula - Booleans
+      - [x] Aula - Arrays
+      - [x] Aula - Objetos
+      - [x] Aula - Empty, undefined e null  
 
-    - [ ] Tópico - Atividade prática
-      - [ ] Aula - Verificar palíndromo
-      - [ ] Aula - Substituir números pares
-      - [ ] Certifique seu conhecimento  
+    - [x] Tópico - Atividade prática
+      - [x] Aula - Verificar palíndromo
+      - [x] Aula - Substituir números pares
+      - [x] Certifique seu conhecimento  
 
 
-  - [ ] Curso - Funções
-    - [ ] Tópico - Tipos de funções
-      - [ ] Aula - Apresentação do curso
-      - [ ] Aula - Estrutura e função anônima
-      - [ ] Aula - Função autoinvocável e callbacks  
+  - [x] Curso - Funções
+    - [x] Tópico - Tipos de funções
+      - [x] Aula - Apresentação do curso
+      - [x] Aula - Estrutura e função anônima
+      - [x] Aula - Função autoinvocável e callbacks  
 
-    - [ ] Tópico - Parâmetros
-      - [ ] Aula - Valores padrão e objeto "arguments"
-      - [ ] Aula - Arrays e objetos  
+    - [x] Tópico - Parâmetros
+      - [x] Aula - Valores padrão e objeto "arguments"
+      - [x] Aula - Arrays e objetos  
 
-    - [ ] Tópico - Loops
-      - [ ] Aula - if/else e Switch
-      - [ ] Aula - For e while  
+    - [x] Tópico - Loops
+      - [x] Aula - if/else e Switch
+      - [x] Aula - For e while  
 
-    - [ ] Tópico - This
-      - [ ] Aula - O que é this?
-      - [ ] Aula - Manipulando o seu valor  
+    - [x] Tópico - This
+      - [x] Aula - O que é this?
+      - [x] Aula - Manipulando o seu valor  
 
     - [ ] Tópico - Arrow functions
-      - [ ] Aula - Sintaxe e outras restrições
+      - [x] Aula - Sintaxe e outras restrições
       - [ ] Atividade prática
-      - [ ] Certifique seu conhecimento  
+      - [x] Certifique seu conhecimento  
 
 
   - [ ] Curso - Debugging e Error Handling  
+    - [x] Tópico - Tipos de erros
+        - [x] Aula - Apresentação do curso
+        - [x] Aula - ECMAScript error e DOMException
+    - [x] Tópico - Tratando erros
+        - [x] Aula - Trow, Try/Catch e Finally
+    - [x] Tópico - Criando erros
+        - [x] Aula - O objeto Error
+        - [ ] Atividade prática
+        - [x] Certifique seu conhecimento 
+
+
 
   - [ ] Desafio de código - Desafios iniciais JS - IJSE  
 
   - [ ] Curso - Manipulando a D.O.M. com JS  
+    - [ ] Tópico - Entendendo o D.O.M.
+        - [ ] Aula - Apresentação do curso
+        - [ ] Aula - O que é D.O.M. e D.O.M. vs B.O.M.
+    - [ ] Tópico - Selecionando elementos
+        - [ ] Aula - Métodos
+    - [ ] Tópico - Trabalhando com estilos
+        - [ ] Aula - Trabalhando com estilos
+    - [ ] Tópico - Eventos
+        - [ ] Aula - Tipos e Acionando eventos
+        - [ ] Atividade prática
+        - [ ] Certifique seu conhecimento
+
 
   - [ ] Curso - JS assíncrono  
+    - [ ] Tópico - Assincronicidade
+        - [ ] Apresentação do curso
+        - [ ] Definição, Promises e Async/Await
+    - [ ] Tópico - Consumindo APIs
+        - [ ] Aula - O que são APIs e Fetch
+        - [ ] Atividade prática
+        - [ ] Certifique seu conhecimento
 
   - [ ] Curso - Orientação a objetos
+    - [ ] Tópico - Compreendendo Orientação a Objetos
+        - [ ] Aula - Paradigmas e pilares
+    - [ ] Tópico - Orientação de objetos com jS
+        - [ ] Aula - Protótipos e Classes
+        - [ ] Atividade prática
+        - [ ] Certifique seu conhecimento
 
   - [ ] Curso - Introdução ao TypeScript: Explorando classes, tipos e interfaces  
+    - [ ] Tópico - Como implementar o typescript na prática
+        - [ ] Aula - Exemplo das vantagens do typescript
+        - [ ] Aula - Criando o arquivo index.ts e executando o comando parcel
+        - [ ] Aula - Escrevendo a função soma com typescript
+        - [ ] Aula - Como funcionam as interfaces
+        - [ ] Aula - Como funcionam os types
+        - [ ] Aula - Tratango a tag input
+        - [ ] Aula - O que são Generic types
+        - [ ] Aula - Desenvolvendo condicionais a partir de parâmetros
+        - [ ] Aula - Utilizando o caracter "?" para variáveis operacionais
+        - [ ] Aula - Criando variáveis com propriedade readonly e private
+        - [ ] Aula - Como importar bibliotecas com typescript
+        - [ ] Aula - Exemplo de como usar Omit e conclusão do curso
+        - [ ] Certifique seu conhecimento
 
   - [ ] Desafio de código - Desafios intermediários JS - IJSE  
 
   - [ ] Desafio de projeto - Introdução prática ao TS  
+    - [ ] Aula - Como usar os desafios de projeto para criar seu portfólio
+    - [ ] Aula - O que é Typescript e preparação inicial com VSCode
+    - [ ] Aula - Criando uma aplicação simples de exemplo com JS
+    - [ ] Aula - Recriando a mesma aplicação simples com TS
+    - [ ] Aula - Por que usar TS?
+    - [ ] Aula - Features do TS - Configuração básica e repositório
+    - [ ] Aula - Relação entre tipos de variáveis
+    - [ ] Aula - Lidando com objeto, enum e interface
+    - [ ] Aula - Sobre o tipo de variável any
+    - [ ] Aula - Definição de tipos de variáveis personalizados
+    - [ ] Aula - Definindo o tipo de retorno de uma função
+    - [ ] Aula - Quando usar o tipo void em funções
+    - [ ] Aula - Incluindo callback em funções
+    - [ ] Aula - Any está de volta e sobre unknown
+    - [ ] Aula - Como funciona o tipo never e comando throw
+    - [ ] Aula - Breve revisão sobre os tipos apresentados
+    - [ ] Aula - tsconfig.json - taget
+    - [ ] Aula - tsconfig.json - lib
+    - [ ] Aula - tsconfig.json - outDir e rootDir
+    - [ ] Aula - tsconfig.json - nolmplicitAny e stictNullChecks
+    - [ ] Aula - Breve revisão do tsconfig.json
+    - [ ] Aula - Dúvidas e comentários - Parte 1
+    - [ ] Comentários sobre os desafios propostos
+    - [ ] Dúvidas e comentários finais
+    - [ ] Github
 
 
 - [ ] Módulo IV - Front-End: Desenvolvimento Web com React  

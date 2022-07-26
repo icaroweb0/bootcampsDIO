@@ -228,27 +228,27 @@ x# Estudos BootCamp DIO
   - [ ] Desafio de código - Desafios iniciais JS - IJSE  
 
   - [ ] Curso - Manipulando a D.O.M. com JS  
-    - [ ] Tópico - Entendendo o D.O.M.
-        - [ ] Aula - Apresentação do curso
-        - [ ] Aula - O que é D.O.M. e D.O.M. vs B.O.M.
-    - [ ] Tópico - Selecionando elementos
-        - [ ] Aula - Métodos
-    - [ ] Tópico - Trabalhando com estilos
-        - [ ] Aula - Trabalhando com estilos
+    - [x] Tópico - Entendendo o D.O.M.
+        - [x] Aula - Apresentação do curso
+        - [x] Aula - O que é D.O.M. e D.O.M. vs B.O.M.
+    - [x] Tópico - Selecionando elementos
+        - [x] Aula - Métodos
+    - [x] Tópico - Trabalhando com estilos
+        - [x] Aula - Trabalhando com estilos
     - [ ] Tópico - Eventos
-        - [ ] Aula - Tipos e Acionando eventos
+        - [x] Aula - Tipos e Acionando eventos
         - [ ] Atividade prática
-        - [ ] Certifique seu conhecimento
+        - [x] Certifique seu conhecimento
 
 
   - [ ] Curso - JS assíncrono  
-    - [ ] Tópico - Assincronicidade
-        - [ ] Apresentação do curso
-        - [ ] Definição, Promises e Async/Await
+    - [x] Tópico - Assincronicidade
+        - [x] Apresentação do curso
+        - [x Definição, Promises e Async/Await
     - [ ] Tópico - Consumindo APIs
-        - [ ] Aula - O que são APIs e Fetch
+        - [x] Aula - O que são APIs e Fetch
         - [ ] Atividade prática
-        - [ ] Certifique seu conhecimento
+        - [x] Certifique seu conhecimento
 
   - [ ] Curso - Orientação a objetos
     - [ ] Tópico - Compreendendo Orientação a Objetos
@@ -301,7 +301,7 @@ x# Estudos BootCamp DIO
     - [ ] Aula - Dúvidas e comentários - Parte 1
     - [ ] Comentários sobre os desafios propostos
     - [ ] Dúvidas e comentários finais
-    - [ ] Github
+    - [ ] Githux
 
 
 - [ ] Módulo IV - Front-End: Desenvolvimento Web com React  

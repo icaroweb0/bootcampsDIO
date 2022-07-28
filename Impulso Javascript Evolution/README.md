@@ -156,14 +156,14 @@ x# Estudos BootCamp DIO
       - [x] Certifique seus conhecimentos  
 
 
-  - [ ] Curso - Sintaxe e operadores
+  - [x] Curso - Sintaxe e operadores
     - [x] Tópico - Operadores
       - [x] Aula - Apresentação do curso
       - [x] Aula - Operadores  
 
     - [x] Tópico - Atividade prática
       - [x] Aula - Explicando a atividade
-      - [ ] Atividade prática
+      - [x] [Atividade prática](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/dominandoJS/sintaxeEOperadoresJS)
       - [x] Certifique seu conhecimento  
 
   - [ ] Curso - Variáveis e Tipos

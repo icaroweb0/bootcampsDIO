@@ -166,7 +166,7 @@ x# Estudos BootCamp DIO
       - [x] [Atividade prática](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/dominandoJS/sintaxeEOperadoresJS)
       - [x] Certifique seu conhecimento  
 
-  - [ ] Curso - Variáveis e Tipos
+  - [x] Curso - Variáveis e Tipos
     - [x] Tópico - Atribuindo valores
       - [x] Aula - Apresentando o curso
       - [x] Aula - Variáveis
@@ -188,7 +188,7 @@ x# Estudos BootCamp DIO
       - [x] Certifique seu conhecimento  
 
 
-  - [x] Curso - Funções
+  - [x] Curso - Dominando funções em JS  
     - [x] Tópico - Tipos de funções
       - [x] Aula - Apresentação do curso
       - [x] Aula - Estrutura e função anônima
@@ -206,9 +206,9 @@ x# Estudos BootCamp DIO
       - [x] Aula - O que é this?
       - [x] Aula - Manipulando o seu valor  
 
-    - [ ] Tópico - Arrow functions
+    - [x] Tópico - Arrow functions
       - [x] Aula - Sintaxe e outras restrições
-      - [ ] Atividade prática
+      - [x] Atividade prática
       - [x] Certifique seu conhecimento  
 
 
@@ -244,7 +244,7 @@ x# Estudos BootCamp DIO
   - [ ] Curso - JS assíncrono  
     - [x] Tópico - Assincronicidade
         - [x] Apresentação do curso
-        - [x Definição, Promises e Async/Await
+        - [ ] Definição, Promises e Async/Await
     - [ ] Tópico - Consumindo APIs
         - [x] Aula - O que são APIs e Fetch
         - [ ] Atividade prática

@@ -212,7 +212,7 @@ x# Estudos BootCamp DIO
       - [x] Certifique seu conhecimento  
 
 
-  - [ ] Curso - Debugging e Error Handling  
+  - [x] Curso - Debugging e Error Handling  
     - [x] Tópico - Tipos de erros
         - [x] Aula - Apresentação do curso
         - [x] Aula - ECMAScript error e DOMException
@@ -220,7 +220,7 @@ x# Estudos BootCamp DIO
         - [x] Aula - Trow, Try/Catch e Finally
     - [x] Tópico - Criando erros
         - [x] Aula - O objeto Error
-        - [ ] Atividade prática
+        - [x] Atividade prática
         - [x] Certifique seu conhecimento 
 
 

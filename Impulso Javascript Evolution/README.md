@@ -182,9 +182,9 @@ x# Estudos BootCamp DIO
       - [x] Aula - Objetos
       - [x] Aula - Empty, undefined e null  
 
-    - [x] Tópico - Atividade prática
-      - [x] Aula - Verificar palíndromo
-      - [x] Aula - Substituir números pares
+    - [x] [Tópico - Atividade prática](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/dominandoJS/variaveisETipos)
+      - [x] [Atividade - Verificar palíndromo](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/dominandoJS/variaveisETipos/palindromo)
+      - [x] [Atividade - Substituir números pares](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/dominandoJS/variaveisETipos/substituirPares)
       - [x] Certifique seu conhecimento  
 
 
@@ -208,7 +208,7 @@ x# Estudos BootCamp DIO
 
     - [x] Tópico - Arrow functions
       - [x] Aula - Sintaxe e outras restrições
-      - [x] Atividade prática
+      - [x] [Atividade prática](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/dominandoJS/dominandoFuncoesJS)
       - [x] Certifique seu conhecimento  
 
 
@@ -220,7 +220,7 @@ x# Estudos BootCamp DIO
         - [x] Aula - Trow, Try/Catch e Finally
     - [x] Tópico - Criando erros
         - [x] Aula - O objeto Error
-        - [x] Atividade prática
+        - [x] [Atividade prática](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/dominandoJS/debugError)
         - [x] Certifique seu conhecimento 
 
 

@@ -237,7 +237,7 @@ x# Estudos BootCamp DIO
         - [x] Aula - Trabalhando com estilos
     - [x] Tópico - Eventos
         - [x] Aula - Tipos e Acionando eventos
-        - [x] Atividade prática
+        - [x] [Atividade prática](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/dominandoJS/manipulandoDOMComJS)
         - [x] Certifique seu conhecimento
 
 

@@ -225,9 +225,9 @@ x# Estudos BootCamp DIO
 
 
 
-  - [ ] Desafio de código - Desafios iniciais JS - IJSE  
+  - [x] Desafio de código - Desafios iniciais JS - IJSE  
 
-  - [ ] Curso - Manipulando a D.O.M. com JS  
+  - [x] Curso - Manipulando a D.O.M. com JS  
     - [x] Tópico - Entendendo o D.O.M.
         - [x] Aula - Apresentação do curso
         - [x] Aula - O que é D.O.M. e D.O.M. vs B.O.M.
@@ -235,9 +235,9 @@ x# Estudos BootCamp DIO
         - [x] Aula - Métodos
     - [x] Tópico - Trabalhando com estilos
         - [x] Aula - Trabalhando com estilos
-    - [ ] Tópico - Eventos
+    - [x] Tópico - Eventos
         - [x] Aula - Tipos e Acionando eventos
-        - [ ] Atividade prática
+        - [x] Atividade prática
         - [x] Certifique seu conhecimento
 
 

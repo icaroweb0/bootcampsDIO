@@ -241,22 +241,22 @@ x# Estudos BootCamp DIO
         - [x] Certifique seu conhecimento
 
 
-  - [ ] Curso - JS assíncrono  
+  - [x] Curso - JS assíncrono  
     - [x] Tópico - Assincronicidade
         - [x] Apresentação do curso
-        - [ ] Definição, Promises e Async/Await
-    - [ ] Tópico - Consumindo APIs
+        - [x] Definição, Promises e Async/Await
+    - [x] Tópico - Consumindo APIs
         - [x] Aula - O que são APIs e Fetch
-        - [ ] Atividade prática
+        - [x] Atividade prática
         - [x] Certifique seu conhecimento
 
-  - [ ] Curso - Orientação a objetos
-    - [ ] Tópico - Compreendendo Orientação a Objetos
-        - [ ] Aula - Paradigmas e pilares
-    - [ ] Tópico - Orientação de objetos com jS
-        - [ ] Aula - Protótipos e Classes
-        - [ ] Atividade prática
-        - [ ] Certifique seu conhecimento
+  - [x] Curso - Orientação a objetos
+    - [x] Tópico - Compreendendo Orientação a Objetos
+        - [x] Aula - Paradigmas e pilares
+    - [x] Tópico - Orientação de objetos com jS
+        - [x] Aula - Protótipos e Classes
+        - [x] Atividade prática
+        - [x] Certifique seu conhecimento
 
   - [ ] Curso - Introdução ao TypeScript: Explorando classes, tipos e interfaces  
     - [ ] Tópico - Como implementar o typescript na prática

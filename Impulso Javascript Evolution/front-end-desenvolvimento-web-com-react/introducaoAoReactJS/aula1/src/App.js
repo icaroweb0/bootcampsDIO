@@ -1,29 +1,41 @@
-import React from "react"
+import React, { Component } from "react"
 import ReactDOM from "react-dom"
-import Button from "./Button";
-import ComponentA from "./ComponenteA";
-import ComponentB from "./ComponenteB";
 import './App.css';
 
-const element = 'Digital Inovation One'
-const element2 = <h1> Olá turminha do bem  =D</h1>
+class App extends Component {
 
-function soma(a, b) {
-  alert (a + b)  
-}
+  constructor(props) {
+    super(props)
 
-const App = () => {
-  return (
-    <div>
-      Olá
-      <Button onClick={()=>soma(15,12)} name="Ícaro Siqueira" />
-      <ComponentA>
-        <ComponentB>
-          <Button onClick={()=>soma(5,11)} name="José das Couves" />
-        </ComponentB>
-      </ComponentA>
-    </div>
-  )
+    this.state = {
+      clock: 1000,
+      copo: 'água'
+    }
+  }
+
+  componentDidMount(){
+    window.setTimeout(() => {
+      this.setState({
+        copo:'suco'
+      })
+    }, 3000)
+  }
+
+  alterarCopo = () => {
+    this.setState({
+      copo: 'refrigerante'
+    })
+  }
+
+  render() {
+    const {clock, copo} = this.state
+    return (
+      <div>
+        <h1>{clock}</h1>
+        <button onClick={() => this.alterarCopo()}><h1>{copo}</h1></button>
+      </div>
+    )
+  }
 }
 
 export default App

@@ -1,4 +1,4 @@
-x# Estudos BootCamp DIO
+xx# Estudos BootCamp DIO
 ## BootCamp Impulse JS Evolution
 
 - [x] Módulo 0 - Prepare-se para a Jornada  
@@ -255,31 +255,31 @@ x# Estudos BootCamp DIO
         - [x] Aula - Paradigmas e pilares
     - [x] Tópico - Orientação de objetos com jS
         - [x] Aula - Protótipos e Classes
-        - [x] Atividade prática
+        - [x] [Atividade prática](https://github.com/icaroweb0/bootcampsDIO/tree/main/Impulso%20Javascript%20Evolution/dominandoJS/OOComJS)
         - [x] Certifique seu conhecimento
 
-  - [ ] Curso - Introdução ao TypeScript: Explorando classes, tipos e interfaces  
-    - [ ] Tópico - Como implementar o typescript na prática
-        - [ ] Aula - Exemplo das vantagens do typescript
-        - [ ] Aula - Criando o arquivo index.ts e executando o comando parcel
-        - [ ] Aula - Escrevendo a função soma com typescript
-        - [ ] Aula - Como funcionam as interfaces
-        - [ ] Aula - Como funcionam os types
-        - [ ] Aula - Tratango a tag input
-        - [ ] Aula - O que são Generic types
-        - [ ] Aula - Desenvolvendo condicionais a partir de parâmetros
-        - [ ] Aula - Utilizando o caracter "?" para variáveis operacionais
-        - [ ] Aula - Criando variáveis com propriedade readonly e private
-        - [ ] Aula - Como importar bibliotecas com typescript
-        - [ ] Aula - Exemplo de como usar Omit e conclusão do curso
-        - [ ] Certifique seu conhecimento
+  - [x] Curso - Introdução ao TypeScript: Explorando classes, tipos e interfaces  
+    - [x] Tópico - Como implementar o typescript na prática
+        - [x] Aula - Exemplo das vantagens do typescript
+        - [x] Aula - Criando o arquivo index.ts e executando o comando parcel
+        - [x] Aula - Escrevendo a função soma com typescript
+        - [x] Aula - Como funcionam as interfaces
+        - [x] Aula - Como funcionam os types
+        - [x] Aula - Tratango a tag input
+        - [x] Aula - O que são Generic types
+        - [x] Aula - Desenvolvendo condicionais a partir de parâmetros
+        - [x] Aula - Utilizando o caracter "?" para variáveis operacionais
+        - [x] Aula - Criando variáveis com propriedade readonly e private
+        - [x] Aula - Como importar bibliotecas com typescript
+        - [x] Aula - Exemplo de como usar Omit e conclusão do curso
+        - [x] Certifique seu conhecimento
 
-  - [ ] Desafio de código - Desafios intermediários JS - IJSE  
+  - [x] Desafio de código - Desafios intermediários JS - IJSE  
 
   - [ ] Desafio de projeto - Introdução prática ao TS  
-    - [ ] Aula - Como usar os desafios de projeto para criar seu portfólio
-    - [ ] Aula - O que é Typescript e preparação inicial com VSCode
-    - [ ] Aula - Criando uma aplicação simples de exemplo com JS
+    - [x] Aula - Como usar os desafios de projeto para criar seu portfólio
+    - [x] Aula - O que é Typescript e preparação inicial com VSCode
+    - [x] Aula - Criando uma aplicação simples de exemplo com JS
     - [ ] Aula - Recriando a mesma aplicação simples com TS
     - [ ] Aula - Por que usar TS?
     - [ ] Aula - Features do TS - Configuração básica e repositório

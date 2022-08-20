@@ -26,3 +26,5 @@ function media(array, media){
     console.log(`os alunos aprovados são:\n ${aprovados}`)
 }
 media(alunos, 6)
+
+console.log(alunos[1])
